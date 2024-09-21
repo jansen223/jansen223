@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey folks 👋
+
+### I am Jansen, a student of Bohol Island State University - Main Campus. I am currently a 4th year computer engineering student. 💻
+
+Eager and willing to learn something new!
 
 <!--
 **jansen223/jansen223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
